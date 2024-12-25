@@ -1,4 +1,5 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+# CampingCompanion
+A modern camping app built with Next.js and TypeScript, providing tools to plan, explore, and enjoy outdoor adventures.
 
 ## Getting Started
 
